@@ -134,7 +134,7 @@
                     <button id="descriptionDelete" class="absolute -top-3 -right-3 focus:outline-none text-red-500 bg-white hover:bg-white-500 focus:ring-4 focus:ring-white-300 font-medium rounded-full text-sm px-2 py-1 dark:focus:ring-white-900">
                         X
                     </button>
-                    <textarea id="descriptionInput" class="mt-5 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Write your thoughts here..."></textarea>
+                    <textarea id="descriptionInput" class="mt-5 bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="Write your thoughts here..." rows="3"></textarea>
                 </div>
             </div>
             <div class="mt-5">
